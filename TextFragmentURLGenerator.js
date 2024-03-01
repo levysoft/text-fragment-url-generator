@@ -1,0 +1,1 @@
+javascript:(function(){var text=window.getSelection().toString();if(text){var baseUrl=window.location.href.split('#')[0];var formattedText=text.trim().replace(/ /g,'%20');var newUrl=baseUrl+'#:~:text='+formattedText;prompt('Copy this URL:',newUrl);}else{alert('Please select some text on the page.');}})();
