@@ -2,7 +2,7 @@
 
 [ [English](README.md) | [Italiano](README.it.md) ]
 
-Questo repository ospita un Bookmarklet JavaScript che consente agli utenti di generare URL con il Frammento di Testo Scroll-to direttamente dal loro browser. Selezionando del testo su una pagina web e cliccando sul bookmarklet, gli utenti possono creare un link che, quando visitato, scorre automaticamente fino al testo selezionato sulla pagina.
+Questa repository ospita un Bookmarklet JavaScript che consente agli utenti di generare URL con il Frammento di Testo Scroll-to direttamente dal loro browser. Selezionando del testo su una pagina web e cliccando sul bookmarklet, gli utenti possono creare un link che, quando visitato, scorre automaticamente fino al testo selezionato sulla pagina.
 
 ## Come Utilizzare
 
