@@ -1,5 +1,7 @@
 # Text Fragment URL Generator Bookmarklet
 
+[ [English](README.md) | [Italiano](README.it.md) ]
+
 This repository hosts a JavaScript Bookmarklet that enables users to generate URLs with Scroll-to-Text Fragment directly from their browser. By selecting text on a webpage and clicking the bookmarklet, users can create a link that, when visited, scrolls directly to the selected text on the page.
 
 ## How to Use
